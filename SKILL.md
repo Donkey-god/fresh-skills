@@ -126,7 +126,7 @@ mkdir -p "$最终商品目录"
 
 1. **打开七鲜移动端网站**
    - `https://7fresh.m.jd.com`
-   - 若已拿到商详页，可直接访问商详链接（示例：`https://7fresh.m.jd.com/detail.html/?storeId=1030847505&skuId=556215&promotionId=&source=searchList`）
+   - 若已拿到商详页，可直接访问商详链接（示例：`https://7fresh.m.jd.com/detail.html/?skuId=556215`）
    - 打开后先确认页面为移动端样式（m站），再执行后续操作
 
 2. **切换浏览器为移动端模式（必须先执行）**
